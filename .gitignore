@@ -1,0 +1,4 @@
+/.idea/
+# Project exclude paths
+/kommission-application/target/
+/kommission-sql/target/
