@@ -5,7 +5,7 @@ import space.arim.dazzleconf.annote.ConfKey;
 
 public interface BotConfig {
 
-    @ConfDefault.DefaultString("ODY2MTEyNDU4Njc0NDA1Mzk2.YPN0FQ.7ah7tkzM5Vh2o29EIclLigNj-Wo")
+    @ConfDefault.DefaultString("null")
     @ConfKey("login.token")
     String token();
 
